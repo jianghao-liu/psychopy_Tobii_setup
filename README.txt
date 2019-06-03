@@ -3,7 +3,6 @@
 
 Code for testing the compatibility of Tobii with psychoPy
 
-@github: Jianghaolouis
 ************************************************************
 
 1) Installing the Pro SDK and connected Tobii device via USE or network
